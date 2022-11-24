@@ -1,0 +1,1 @@
+import{_ as n,o as c,c as s,g as e,H as r,G as _}from"./app.866101c3.js";const a={},m={w:"screen",h:"screen",class:"px-4 py-10 text-center"};function i(p,f){const o=r,t=_("router-view");return c(),s("main",m,[e(o),e(t)])}const d=n(a,[["render",i]]);export{d as default};
